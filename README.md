@@ -1,2 +1,2 @@
 # Final-project-DS
-[tesla_GameStop](https://labs.cognitiveclass.ai/v2/tools/jupyterlab?ulid=ulid-f94392bb53ad3442b4d0e743795f64b44faf343f)
+[tesla_GameStop](https://jupyterlab-3-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/PY0220EN/Final%20Assignment.ipynb)
